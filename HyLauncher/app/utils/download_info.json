@@ -1,0 +1,10 @@
+{
+    "name": "HyLauncher",
+    "version": "1.0",
+    "Autor": "Harriet Landa Gil",
+    "desctiption": "HyLauncher info json",
+    "mods_version": "1.0",
+    "downlaod_path": "https://github.com/HyLauncher/HyLauncherDeps/raw/main/Mods.zip",
+    "resource_pack_version": "1.0",
+    "resource_pack_path": "https://github.com/HyLauncher/HyLauncherDeps/raw/main/Lagunaak_Resource_Pack.zip"
+}
